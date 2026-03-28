@@ -80,4 +80,4 @@ from
             personId
         from
             Address
-    ) a on p.personId = a.personId
+    ) a on p.personId = a.personId;
