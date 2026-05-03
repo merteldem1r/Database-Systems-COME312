@@ -16,7 +16,7 @@
 * Food Service Database SQL Project
 * Electricity Bill Database System
 
-Select one of the projects above and complete the project steps below. All code must be executed in an Oracle database.
+**Select one of the projects above or similar** and **complete** the **project steps** below. All code must be executed in an **Oracle database**.
 
 1. Draw an **E-R diagram** for your project (it must contain at **least 12 tables**). Use Microsoft Visio or a similar software tool.
 2. Provide the **table creation scripts** for your project.
