@@ -1,3 +1,3 @@
 ## Database Systems - COME312
 
-**Author**: Mert Eldemir
+**Author**: Mert Eldemir, Tuba Aydın
